@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+     
+     }
+
+#header{
+   max-width: 100%;
+    height: 105px;
+    background-color:#042944;
+    color:yellowgreen;
+    font-size: 22px;
+    padding: 10px;
+   
+ 
+     }
+
+
+
+
+
+#Aheader{
+
+max-width: 100%;
+    height: 105px;
+    background-color:#262322;
+    color:white;
+    font-size: 22px;
+    padding: 10px;
+
+}
+
+
+
+
+
+
+
+#footer{
+    
+    width: 100%;
+    height: 105px;
+    background-color:#262322;
+    color:white;
+    float: left;
+    text-align:center;
+     }
+
+  
+    #login{
+        
+        max-width: 390px;
+        height: 200px;
+        background-color: cornflowerblue;
+        margin:0px auto;
+        padding: 30px;
+    }
+
+ #L_title{
+            
+            font-size: 20px;
+            color: #10B25C;
+            margin:90px auto;
+            max-width: 300px;
+            text-align: center;
+            font-family:sans-serif;
+        }
+
