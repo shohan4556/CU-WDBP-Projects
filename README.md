@@ -8,6 +8,6 @@
 
 | Project Name        |              Student Name      |     ID       |
 | -------------       |              :-------------:   | -------------|
-| [Online Quiz App](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online-Quiz)     | Shohanur Rahaman       | 141352507
-| Md.Mahadi  Hassan   | Blog                   | 13334236
-|                     |              |
+| [Online Quiz App](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online-Quiz)                   | Shohanur Rahaman             | 141352507
+| [Blog](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Blog)                          | Md.Mahadi Hassan             | 13334236
+|                         |                              |
