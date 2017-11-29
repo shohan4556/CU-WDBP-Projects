@@ -34,8 +34,9 @@
 | [Online Job Service](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/online-job-service-Monoj/online%20job%20service/library)|Monoj Biswas | 141352503
 |[Blood](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Blood-bank-Monir)|Moniruzzaman Mia | 141352049
 | [School Management System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/School-Mng-System-Ruhul)|Ruhul Amin | 141352059
-| [Student Management System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Student-Mng-System-Maruf)| Maruf Ahmed | 141352047
-
+| [Student Management System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Student-Mng-System-Maruf)| Maruf Ahmed | 141352047 |
+[Legends of Bangladesh (Blog)](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Student-Mng-System-Maruf)| Maksudur Rahman | 141352001
+|[Online Super Shop](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/online-shop-abu-sayem)| Abu Shahadat Md. Sayem | 141352010
 
 
 
