@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="maksud@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1" name="maksud">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="emarketing"/>
+    <schema id="4" parent="1" name="houserent"/>
+    <schema id="5" parent="1" name="information_schema"/>
+    <schema id="6" parent="1" name="insta"/>
+    <schema id="7" parent="1" name="laravelblog"/>
+    <schema id="8" parent="1" name="login"/>
+    <schema id="9" parent="1" name="mysql"/>
+    <schema id="10" parent="1" name="newshop"/>
+    <schema id="11" parent="1" name="performance_schema"/>
+    <schema id="12" parent="1" name="phpblog"/>
+    <schema id="13" parent="1" name="prestashop"/>
+    <schema id="14" parent="1" name="sys"/>
+    <schema id="15" parent="1" name="tipu"/>
+    <schema id="16" parent="1" name="wordpress"/>
+    <schema id="17" parent="1" name="zypsy"/>
+    <schema id="18" parent="1" name="branwone_wp818"/>
+    <schema id="19" parent="1" name="anik"/>
+    <schema id="20" parent="1" name="naik"/>
+    <table id="21" parent="2" name="admin"/>
+    <table id="22" parent="2" name="legends"/>
+    <column id="23" parent="21" name="admin_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="24" parent="21" name="admin_username">
+      <Position>2</Position>
+      <DataType>varchar(32)|0</DataType>
+    </column>
+    <column id="25" parent="21" name="password">
+      <Position>3</Position>
+      <DataType>varchar(32)|0</DataType>
+    </column>
+    <column id="26" parent="21" name="joined">
+      <Position>4</Position>
+      <DataType>datetime|0</DataType>
+    </column>
+    <index id="27" parent="21" name="admin_admin_username_uindex">
+      <ColNames>admin_username</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="28" parent="21" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>admin_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <key id="29" parent="21" name="admin_admin_username_uindex">
+      <ColNames>admin_username</ColNames>
+      <UnderlyingIndexName>admin_admin_username_uindex</UnderlyingIndexName>
+    </key>
+    <column id="30" parent="22" name="legend_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="31" parent="22" name="legend_name">
+      <Position>2</Position>
+      <DataType>varchar(32)|0</DataType>
+    </column>
+    <column id="32" parent="22" name="dateofbirth">
+      <Position>3</Position>
+      <DataType>date|0</DataType>
+    </column>
+    <column id="33" parent="22" name="died">
+      <Position>4</Position>
+      <DataType>date|0</DataType>
+    </column>
+    <column id="34" parent="22" name="legend_details">
+      <Position>5</Position>
+      <DataType>longtext|0</DataType>
+    </column>
+    <column id="35" parent="22" name="image">
+      <Position>6</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <key id="36" parent="22" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>legend_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

@@ -1,0 +1,42 @@
+.navbar{
+    margin-bottom: 0 !important;
+}
+#home-slider{
+    position: relative;
+    background-image: url("img/bangladeshi_flag-1280x720.jpg");
+    background-position: center;
+}
+#home-slider img{
+    width: 100%;
+    position: absolute;
+}
+.slider-content{
+    margin: auto;
+    display: inline-block;
+    z-index: 10000;
+    color: white !important;
+    padding-top:150px;
+    padding-bottom: 150px;
+}
+.btn-home-more{
+    background-color: #1c7430;
+    color: #fff;
+    padding: 12px 55px;
+    letter-spacing: 1px;
+}
+.legend-details{
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid grey;
+}
+.legend-img{
+    max-width: 150px;
+    text-align: center;
+    margin: auto;
+}
+.legend-img img{
+    width: 100%;
+    margin-bottom: 50px;
+    border: 2px solid grey;
+}
