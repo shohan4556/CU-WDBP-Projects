@@ -1,16 +1,8 @@
 # Blog
 
-## Md.Mahadi  Hassan
-## ID : 141352507
+## Md.Mahadi Hassan  
+## ID : 13334236
 ---------------------------
-
-### Blog
-
-### dependencies
-
-PHP
-MySQL
-Apache
 
 
 
