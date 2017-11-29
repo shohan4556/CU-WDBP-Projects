@@ -13,3 +13,12 @@
 |         [City Mail Server](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Citymail-Babul)             |   babul Miah       | 13334781
 | [Codec](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Codec-Oni) |  Tasnim Obaydi | 13334663
 |[College Information System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/College-Information-System-Sujan/Student_Information)           | Sujan Sarkar  | null
+[E-Commerce](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Electronix-Kam-Sayem/electronix2) | Md Kamruzzaman | 141352024|
+|[Online-Quiz](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online%20Quiz-Kamrul) | Kamrul Islam | 141352514
+|[Online-Quiz](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online-Quiz-Aziz) | Md. Abdul Aziz Sarker | 141352004
+|[Online-Quiz](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online-Quiz-Sajib) | Rezauzzaman Sajib Howlader | null
+| [Simple Quiz App](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online-Quiz-Shohan) | Shohanur Rahaman | 141352507
+| [Rakib-Shop](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Rakib) | Md. Rakib Sardar| 13334662
+| [Ecommerce](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Sadia) |  Kh. Sadia afrin| 141352537
+
+
