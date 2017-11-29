@@ -1,22 +1,7 @@
-# Quizing Web App
+# Online-Quiz
 
-## Shohanur Rahaman
-## ID : 141352507
+## Rezauzzaman Sajib Howlader
+## ID : 141352064
 ---------------------------
 
-### Application to create/take quiz
-
-### dependencies
-
-PHP
-MySQL
-Apache
-
-## Configuration
-```
-server : "localhost"
-username : "root"
-password : ""
-Database name : "test"
-```
 

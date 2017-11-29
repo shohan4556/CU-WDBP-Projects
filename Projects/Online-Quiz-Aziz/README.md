@@ -1,22 +1,7 @@
 # Quizing Web App
 
-## Shohanur Rahaman
-## ID : 141352507
+## Md. Abdul Aziz Sarker
+## ID : 141352004
 ---------------------------
 
-### Application to create/take quiz
-
-### dependencies
-
-PHP
-MySQL
-Apache
-
-## Configuration
-```
-server : "localhost"
-username : "root"
-password : ""
-Database name : "test"
-```
 
