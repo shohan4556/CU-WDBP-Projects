@@ -1,0 +1,13 @@
+Project Name: A dynamic website for any resturant.
+Design & Developed by Mahbub Hossain (ID:141352030)
+
+Summary:
+This is a dynamic website for any resturant. Any user as well as the owner of the resturant can easily maintain their necessary role by using this. User can check the item with offered price and then order online. owner can see those order on their personal url hidden from the user.
+User Role: Check different types of item, Order online.
+Owner Role: Insert their available item, Edit Delete Update item, Check order list.
+
+Instruction:
+Unzip the folder. Copy the 'Delicious' folder onto your own local server htdocs folder. Import 'delicious.sql' from localhost/phpmyadmin. Run the website from any browser typing 'localhost/Delicious' to get the user view. For owner view type 'localhost/Delicious/Admin'
+
+N.B. 
+It is not yet authenticated.

@@ -1,0 +1,79 @@
+
+
+textarea {
+    -webkit-appearance: none;
+    overflow: auto;
+}
+
+
+/* States ------------------ */
+
+input[disabled],
+textarea[disabled],
+select[disabled],
+option[disabled],
+button[disabled] {
+    cursor: not-allowed;
+}
+
+
+button:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+button:focus,
+input[type="button"]:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus {
+}
+
+/*background-color: var(--fh-button-hover-bg-color);
+    color: var(--fh-button-hover-font-color);*/
+
+
+
+/* Hide and show related .input-requirements when interacting with input */
+
+input:not([type="submit"]) + .input-requirements {
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 1s ease-out;
+}
+
+input:not([type="submit"]):hover + .input-requirements,
+input:not([type="submit"]):focus + .input-requirements,
+input:not([type="submit"]):active + .input-requirements {
+    max-height: 1000px; /* any large number (bigger then the .input-requirements list) */
+    transition: max-height 1s ease-in;
+}
+
+
+/* Custom ------------------
+
+
+input:not([type="submit"]):valid {
+    border-color: #2ecc71;
+}
+*/
+
+/* Hide and show related .input-requirements when interacting with input */
+
+input:not([type="submit"]) + .input-requirements {
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 1s ease-out;
+}
+
+input:not([type="submit"]):hover + .input-requirements,
+input:not([type="submit"]):focus + .input-requirements,
+input:not([type="submit"]):active + .input-requirements {
+    max-height: 1000px; /* any large number (bigger then the .input-requirements list) */
+    transition: max-height 1s ease-in;
+}
+
+
+
+
+
+
+
