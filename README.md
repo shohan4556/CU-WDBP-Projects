@@ -18,7 +18,7 @@
 |[Online-Quiz](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online-Quiz-Aziz) | Md. Abdul Aziz Sarker | 141352004
 |[Online-Quiz](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online-Quiz-Sajib) | Rezauzzaman Sajib Howlader | 141352064
 | [Simple Quiz App](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Online-Quiz-Shohan) | Shohanur Rahaman | 141352507
-| [Rakib-Shop](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Rakib) | Md. Rakib Sardar| 13334662
+| [E-Shop](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Rakib) | Md. Rakib Sardar| 13334662
 | [Ecommerce](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Sadia) |  Kh. Sadia afrin| 141352537 
 | [Smart Media Web App](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Smart-Media-WebApp-Nurul-Huda-Rasal) | Nurul Huda Rasal | 141352018
 | [Student Information System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Student-Information-Subroto) | Subroto Gosh | null

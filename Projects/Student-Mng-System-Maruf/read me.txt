@@ -1,0 +1,5 @@
+01. default admin: admin@gmail.com
+02. password:1234
+03. DB name:crud
+04. import sql file: crud.sql
+05. Browse: localhost/P8/index.php....click log in/sign up.
