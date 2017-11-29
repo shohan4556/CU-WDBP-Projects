@@ -1,0 +1,5 @@
+--> Create a Dtabase called "codec"
+
+-->import the file "codec.sql"
+
+--> Run the codec folder from localhost or hosted it in web server.

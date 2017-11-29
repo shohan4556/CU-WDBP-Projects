@@ -1,0 +1,117 @@
+
+.full_wr{
+	width:100%;
+}
+.main{
+	width:1180px;
+	margin: 0 auto;
+	border:1px solid steelblue;
+	padding:0 10px;
+	
+	
+}
+.header_area{}
+.header_area img{}
+.navigation_area{
+	background:#85C821;
+	margin-top: 9px;
+	border-radius: 5px;
+	border: 1px solid #5C9F00;
+}
+.navigation_area ul{margin:0;padding:0;list-style:none}
+.navigation_area ul li{
+	display:inline-block;
+	padding: 13;
+	position:relative;
+                 }
+	.navigation_area ul li a{
+		text-decoration:none;
+		padding:8px 10px;
+	}
+	.navigation_area ul li a:hover{
+		background-color:#c0ff00;
+		}
+		.navigation_area ul li ul{
+			visibility:hidden;
+			position:absolute;
+			background-color:#85C821;;
+		}
+		.navigation_area ul li:hover ul{
+			visibility:visible;
+		}
+	.content{}
+	.content h{}
+	.content p{}
+	.content_under{}
+	.content_under h1{
+		padding-bottom:200px;
+	}
+	.ftr{
+		text-align:center;
+		background-color:#85C821;
+		padding:0 -10px;
+		height:50px;
+	}
+	.ftr p{
+		padding-top:12px;
+	}
+	.ftr span{
+		color:white;
+		padding:10;
+	}
+	/*Registration Start from here*/
+	
+	
+	.from{
+		background:#e8f3f8;text-align:center;
+	}
+	.h h1{
+		color:steelblue;
+	font-size:40px;
+	}
+	form{
+		color:steelblue;
+	    margin:20px auto;
+	    width:320px;}
+	input{
+		padding:8px;
+		font-size:inherit;
+		width:100%;
+		}
+	input[type="text"]{
+		border:2px solid steelblue;
+		margin-bottom:8px;}
+	input[type="email"]
+	{border:2px solid steelblue;
+	margin-bottom:8px;}
+	input[type="password"]
+	{border:2px solid steelblue;
+	margin-bottom:8px;}
+	input[type="radio"]{
+		padding:0px;
+		font-size:inherit;
+		width:0;
+	}
+	button{
+		padding:10px 20px;
+		margin-top:10px;
+		color:#fff;
+		background-color: steelblue;
+	}
+	/*login start from here*/
+	/*adminlogin start from here*/
+	.adminlogin{
+		text-align:center;
+		background-color:#e8f3f8;
+	}
+	/*adminOperation start from here*/
+	.question-part{
+		text-align:center;
+		background-color:#e8f3f8;
+	}	
+   /*adminQuestionSetForm start from here*/
+   button{
+	   text-align:center;
+	   margin-left:80px;
+   }
+	
