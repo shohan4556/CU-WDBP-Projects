@@ -1,0 +1,6 @@
+Project Connection:
+
+
+Database name : hostel
+
+At starting point told that you should have creative the database like this up of name such of"hostel" then you will importing the file like name "hostel.sql" in the mysql that have file exist "db" folder in project selecting then press button ok hit the successfully shawing in your displays.after all your project importing winning and can running project...okay.you would watching full php project functionality of activities in the project...that its....!

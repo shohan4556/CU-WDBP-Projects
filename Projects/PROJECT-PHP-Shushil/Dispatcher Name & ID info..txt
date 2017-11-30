@@ -1,0 +1,10 @@
+
+
+           INFO-
+
+
+Student of Name : Susil Chandra Shil.
+Student of ID : 141352535.
+Batch of : 35th 
+Project Name : Hostel Management System in PHP platform. 
+Date of Submitted : 29 - 11 - 2017 .
