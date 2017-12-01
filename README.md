@@ -8,7 +8,7 @@
 
 | Project Name        |              Student Name      |     ID       |
 | -------------       |              :-------------:   | -------------|
-| [Student CRUD](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Abbas)                   | Md. Abbas Uddin             | 141352042
+| [Student Management System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Abbas)                   | Md. Abbas Uddin             | 141352042
 | [Blog](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Blog-Mahadi)  | Md.Mahadi Hassan       | 13334236
 | [City Mail Server](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Citymail-Babul)             |   Babul Miah       | 13334781
 | [Codec](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Codec-Oni) |  Tasnim Obaydi | 13334663
@@ -40,7 +40,7 @@
 | [Product Management System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/PMS(Product%20Management%20System)-Siraj)| Sirajul islam | 141352011
 | [Book Store](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Book_store-Liton)| Liton Mahmud | null
 | [Image Gallary](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Image-Gallary-Motion/imgGlry)| Abdullah Omar Faruk | 141352063
-| [Hotel Booking](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/PROJECT-PHP-Shushil)| Sushil | null
+| [Hotel Booking](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/PROJECT-PHP-Shushil)| Susil Chandra Shil | 141352535 
 |[Registration and Login Verification](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Reg-Login_Verification-anik/anik) | Hasibul Islam Ibrahim | 141352031
 |[Employee Information System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Employee-Anjuman/employee)| Anjuman Islam | 141352023
 |[Student Information Management System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Student-information-Amir/Student%20information%20management%20system)| Amirul Islam | 141352041
