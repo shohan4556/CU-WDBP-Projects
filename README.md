@@ -44,6 +44,8 @@
 |[Registration and Login Verification](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Reg-Login_Verification-anik/anik) | Hasibul Islam Ibrahim | 141352031
 |[Employee Information System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Employee-Anjuman/employee)| Anjuman Islam | 141352023
 |[Student Information Management System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Student-information-Amir/Student%20information%20management%20system)| Amirul Islam | 141352041
+|[Patient Appointment System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Patient-Appoinment-Chaity)| Chamili Sharker Chaity | 141352512
+|[Patient Information System](https://github.com/shohan4556/CU-WDBP-Projects/tree/master/Projects/Patient-Information-Bristi) | Suraya Rahman | 141352542
 
 
 
